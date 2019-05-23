@@ -34,9 +34,9 @@ zorke的博客
 ### 热门
 
 * [CentOS软件安装之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558231551071.html)
+* [CentOS系统操作之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233897353.html)
 * [分享小集合](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233544916.html)
 * [一次故障的查找记录](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235475198.html)
-* [CentOS系统操作之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233897353.html)
 * [SpringBoot技巧](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558234013429.html)
 * [Docker](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235357724.html)
 * [zorke's TodoList](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233298237.html)
