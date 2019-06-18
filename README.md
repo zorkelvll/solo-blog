@@ -42,6 +42,7 @@ zorke的博客
 * [友链申请专栏](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235007369.html)
 * [Nginx配置Https反向代理](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236251564.html)
 * [架构-一款永不重复的高性能分布式发号器](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236551536.html)
+* [架构概述](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236580145.html)
 * [分布式系统架构](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236758250.html)
 * [Springboot项目开启JMX配置](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236952113.html)
 * [Jumpserver环境安装与使用](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558237186522.html)
@@ -52,7 +53,6 @@ zorke的博客
 * [Java - Zookeeper](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235814413.html)
 * [Java - 设计模式](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235981958.html)
 * [J2EE基础知识](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236279653.html)
-* [NVM管理NodeJS版本](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236380064.html)
 
 ### 热议
 
