@@ -35,8 +35,8 @@ zorke的博客
 
 * [CentOS软件安装之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558231551071.html)
 * [一次故障的查找记录](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235475198.html)
-* [CentOS系统操作之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233897353.html)
 * [Springboot项目开启JMX配置](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236952113.html)
+* [CentOS系统操作之备查](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558233897353.html)
 * [阿里云ECS主机-Kaptcha验证码字体显示异常](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236343155.html)
 * [开源站点搭建](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235223980.html)
 * [Nginx运维寻坑记](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558237318440.html)
