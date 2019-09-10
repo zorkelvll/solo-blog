@@ -52,7 +52,7 @@ zorke的博客
 * [友链申请专栏](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235007369.html)
 * [ELK日志系统环境搭建](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235055378.html)
 * [Docker](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558235357724.html)
-* [NVM管理NodeJS版本](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236380064.html)
+* [J2EE基础知识](http://blog.zorkelvll.cn/solo/articles/2019/05/19/1558236279653.html)
 
 ### 热议
 
